@@ -1,0 +1,9 @@
+.avatar-component {
+  border: 1px dashed #f00;
+}
+
+.image {
+  height: 100;
+  width: 100;
+  align-self: center;
+}
